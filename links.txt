@@ -1,0 +1,5 @@
+Links needed:
+Counting and Basic Frequency Plots - 
+	https://etav.github.io/python/count_basic_freq_plot.html
+
+https://www.ncbi.nlm.nih.gov/books/NBK537111/
