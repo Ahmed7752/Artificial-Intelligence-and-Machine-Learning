@@ -1,5 +1,5 @@
 
-ABSTRACT
+# ABSTRACT #
 The purpose of this study is to determine if a machine learning model can be produced, that can correctly distinguish a poisonous mushroom from an edible mushroom. The model is required to have an accuracy score of over 90% to be deemed successful. The approach involves six stages. 
 
 First, the dataset needs to be imported and read. The dataset then needs to be visualised. Next, the dataset is spliced into training and testing datasets. A Gaussian Naive Bayes algorithm is used to build a model. Finally, an accuracy score needs to be produced. The accuracy score will then be visualised using a confusion matrix and a heat map. From the results, this machine learning model can be seen as successful as it has over a 90% accuracy score. 
@@ -7,7 +7,7 @@ First, the dataset needs to be imported and read. The dataset then needs to be v
 This model can accurately tell the difference between a poisonous mushroom from an edible mushroom 92.24% of the time.
 
 
-INTRODUCTION
+# INTRODUCTION #
 The word mushroom is used to describe a variety of fungus, this includes fungi that have a stem and those that do not. The common name for the mushrooms that are discussed in this paper is from the Agaricus and Lepiota Family. 
 
 These mushrooms have a wide range of characteristics, this allows mycologist to categorise them. The majority of mushrooms are poisonous for humans to consume. Because there are over 64,000 types of mushrooms in the Ascomycota family it’s extremely difficult for the public to distinguish which ones are poisonous and which ones are edible. 
